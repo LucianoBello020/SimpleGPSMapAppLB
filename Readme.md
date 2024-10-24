@@ -2,10 +2,6 @@
 
 Esta aplicacion muestra un mapa con la ubicacion actual del usuario.
 
-## Funcionalidades
-
-- Mostrar la ubicacion actual en un mapa
-
 ## Instrucciones de Ejecución
 
 1. Clona el repositorio.
